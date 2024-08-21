@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace NUMSTM
 {
-    public class NUMDllBridge
+    public class NUMDllBridge 
     {
 
         static FxServerProxy.FxServer server=null;
